@@ -1,0 +1,57 @@
+# Unreal Engine - Generated Files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.slnx
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+
+# JetBrains Rider
+.idea/
+
+# VS Code (local settings)
+.vscode/
+
+# Compiler artifacts
+*.obj
+*.pch
+*.pdb
+*.ilk
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Unreal Engine - Additional generated files
+.vsconfig.user
+*.VC.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Compiler artifacts
+*.o
+*.lo
+*.idb
+*.ipch
+*.tlog
+*.sbr
+
+# Crash dumps
+*.dmp
+
+# Operating System
+Desktop.ini
